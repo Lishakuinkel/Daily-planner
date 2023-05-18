@@ -2,8 +2,10 @@
 
 A simple, user responsive online web application called "Daily Planner App" that allows user to schedule their office hours (9am - 5pm). This app also allows the user to save, modify, erase their inputs.
 
+Live deployed URL : 
 
-**User Story
+
+**User Story**
 
 AS AN employee with a busy schedule
 
@@ -12,7 +14,7 @@ I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 
 
-**Acceptance Criteria
+**Acceptance Criteria**
 
 GIVEN I am using a daily planner to create a schedule
 
