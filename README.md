@@ -10,13 +10,16 @@ Following are screenshots of what the app looks like:
 
 <img width="835" alt="image" src="https://github.com/Lishakuinkel/Daily-planner-app/assets/130411719/948aa752-f8f5-4490-ba67-08e177715750">
 
+
 2. When you enter and save your input 
 
 <img width="853" alt="image" src="https://github.com/Lishakuinkel/Daily-planner-app/assets/130411719/a1510592-1e38-4a78-83af-da0daae13115">
 
-3. When you modify your previous input and save
+
+3. When you modify your previous input and click on save button
 
 <img width="850" alt="image" src="https://github.com/Lishakuinkel/Daily-planner-app/assets/130411719/205732b8-d147-4dc3-9874-87c1ab5c8a84">
+
 
 
 **User Story**
