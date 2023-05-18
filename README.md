@@ -1,4 +1,4 @@
-***Online Work Day Scheduler App***
+*****Online Work Day Scheduler App*****
 
 A simple, user responsive online web application called "Daily Planner App" that allows user to schedule their office hours (9am - 5pm). This app also allows the user to save, modify, erase their inputs.
 
