@@ -17,14 +17,14 @@ currentDay.textContent = dayNames[today] + ', ' + monthNames[month] + ' ' + toda
 // Execution starts when DOM is fully loaded //
 $(document).ready(function () {
 
-  const currentHour = dayjs().hour(); // Gets current hour from JS library //
+  const currentHour = dayjs().format('H'); // Gets current hour from JS library //
 
   // Saves user's input to localStorage when saveBtn is clicked //
   function saveInput() {
     $('.saveBtn').on('click', function () {
       const key = $(this).parent().attr('id');
-      const value = $(this).siblings('description').val();
-
+      const value = $(this).siblings('.description').val();
+      console.log(value);
       localStorage.setItem(key, value);
     });
   }
@@ -64,7 +64,7 @@ $(document).ready(function () {
     $(this).children('.description').val(value);
   });
 
- // Calls all main functions //
+  // Calls all main functions //
   compareHour();
   saveInput();
   resetState();
