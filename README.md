@@ -61,6 +61,13 @@ WHEN I refresh the page
 THEN the saved events persist
 
 
+Resources used : 
+https://api.jquery.com/
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+https://www.w3schools.com/jquery/
+
 
 
 
