@@ -2,6 +2,8 @@
 
 A simple, user responsive online web application called "Daily Planner App" that allows user to schedule their office hours (9am - 5pm). This app also allows the user to save, modify, erase their inputs.
 
+Tools and Frameworks used : HTML, CSS, JavaScript, jQuery & Bootstrap.
+
 Live deployed URL : https://lishakuinkel.github.io/Daily-planner-app/
 
 Following are screenshots of what the app looks like:
@@ -61,7 +63,8 @@ WHEN I refresh the page
 THEN the saved events persist
 
 
-Resources used : 
+## Resources used : 
+
 https://api.jquery.com/
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
